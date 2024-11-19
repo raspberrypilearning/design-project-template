@@ -1,23 +1,22 @@
-## Share
+## What can you do now?
 
-If you are in a club, why not share your project with friends?
+If you are following the [PATH NAME](https://projects.raspberrypi.org/en/pathways/PATH-NAME) pathway, you can move on to the [NEXT PROJECT/PATH NAME](https://projects.raspberrypi.org/en/projects/PROJECT-SLUG) project. In this project, you will do DESCRIPTION.
 
-You could also show your family how your project works.
+------ OR ---------
 
-If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+Try our [PROJECT/PATH NAME](https://projects.raspberrypi.org/en/collections/PATH-SLUG) project pathway where you will DESCRIPTION.
 
-[[[share-scratch]]]
+--- print-only --- 
 
-Why not invite your friends to create a project? Let them know how you had fun.
+![ALT TEXT](images/IMAGE-FROM-PROJECT.png)
 
-If you have a Scratch account, and have shared your 'Don't fall in' project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+--- /print-only ---
 
-[[[comments-feedback-scratch]]]
+--- no-print ---
 
---- task ---
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/STARTER_PROJECT_SLUG" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
 
-Inspire the Raspberry Pi Foundation community with your project!
+--- /no-print ---
 
-To submit your project to our ['Don't fall in - Community'](https://scratch.mit.edu/studios/29601182){:target="_blank"} Scratch studio, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
-
---- /task ---
+Or, why not try out another [CODING_LANGUAGE](https://projects.raspberrypi.org/en/projects?software%5B%5D=CODING_LANGUAGE) project.
